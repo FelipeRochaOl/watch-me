@@ -1,6 +1,6 @@
 # Project Ignite Watch.me
 
-Challenge 01 rocketseat ignite, [link](https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d)
+Challenge 02 rocketseat ignite, [link](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1)
 
 [![Watch the video](https://cdn.loom.com/sessions/thumbnails/f99fc4fae35644489b54162b85802f1a-with-play.gif)](https://www.loom.com/share/f99fc4fae35644489b54162b85802f1a)
 
